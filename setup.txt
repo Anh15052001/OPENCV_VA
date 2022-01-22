@@ -1,5 +1,0 @@
-imutils
-cmake
-dlib
-opencv-python-headless
-opencv-contrib-python-headless
